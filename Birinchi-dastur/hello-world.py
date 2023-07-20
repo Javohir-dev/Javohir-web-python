@@ -1,0 +1,5 @@
+print("Hello world!")
+print('Salom dunyo')
+print(7*8-40)
+print(7*8-40)
+print("salom")
