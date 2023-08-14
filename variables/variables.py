@@ -5,11 +5,11 @@
 # baz = 'baz'
 # num = 3.14
 # 
-# print(var)
+# print(var) # var matni
 # print(baz)
 # print(num)
-# # var = "New text"
-# print(var)
+# var = "New text"
+# print(var) # New text
 # =============================================================================
 
 
