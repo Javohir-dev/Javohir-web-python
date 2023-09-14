@@ -65,8 +65,8 @@ yosh = '21'
 # =============================================================================
 
 # INPUT()
-name = input('Iltimos ismingizni kiriting:\n>>> ')
-print(f"Assalomu alaykum, {name.title()}. Nima savolingiz bor?")
+# name = input('Iltimos ismingizni kiriting:\n>>> ')
+# print(f"Assalomu alaykum, {name.title()}. Nima savolingiz bor?")
 
 
 
